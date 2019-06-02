@@ -1,0 +1,6 @@
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode.TwoSum\LeetCode.TwoSum\bin\Debug\LeetCode.TwoSum.exe.config
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode.TwoSum\LeetCode.TwoSum\bin\Debug\LeetCode.TwoSum.exe
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode.TwoSum\LeetCode.TwoSum\bin\Debug\LeetCode.TwoSum.pdb
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode.TwoSum\LeetCode.TwoSum\obj\Debug\LeetCode.TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode.TwoSum\LeetCode.TwoSum\obj\Debug\LeetCode.TwoSum.exe
+C:\Users\Administrator.SMEDOMAIN\source\repos\LeetCode.TwoSum\LeetCode.TwoSum\obj\Debug\LeetCode.TwoSum.pdb
